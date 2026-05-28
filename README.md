@@ -45,7 +45,7 @@ A statistical machine learning project analyzing the OSMI 2016 survey to predict
 ---
 
 ##Get In Touch
-* **LinkedIn:** www.linkedin.com/in/egla-mekonnen-59055533a
-* **GitHub:** https://github.com/Egla23?tab=repositories
-* **Email:** eglamekonnen@gmial.com
-* **Resume:***
+* **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/egla-mekonnen-59055533a)
+* **GitHub:** [github.com/yourusername](https://github.com/Egla23)
+* **Email:** [youremail@example.com](eglamekonnen@gmail.com)
+* **Resume:**[Download PDF](Egla_Mekonnen_Resume.pdf)*
