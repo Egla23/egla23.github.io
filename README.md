@@ -1,6 +1,4 @@
-<h1 style="font-size: 55px; margin-top: 50px;">       Egla Mekonnen 
-                                               Data Science & AI Portfolio</h1>
-
+<h1 style="font-size: 36px; margin-top: 20px; white-space: nowrap;">Egla Mekonnen | Data Science & AI Portfolio</h1>
 
 
 ---
