@@ -1,6 +1,7 @@
-# REEL Vendor Network Chatbot & Recommendation Engine
-*   **[View Live Webpage](https://reelvendorbot.streamlit.app/)**
-*   **[ View Complete Source Code Repository](https://github.com/Egla23/REEL)**
+<h1 style="font-size: 36px; margin-top: 20px;">REEL Vendor Network Chatbot & Recommendation Engine</h1>
+
+*   **[Live Webpage](https://reelvendorbot.streamlit.app/)**
+*   **[Complete Source Code Repository](https://github.com/Egla23/REEL)**
  
   
 ###  Tech Stack
